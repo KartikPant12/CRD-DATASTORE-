@@ -5,7 +5,7 @@ import java.io.Serializable;
 import org.json.simple.JSONObject;
 
 /**
- * @author divyam
+ * @author  kartikPANT
  *
  *         The model class used to write in DataStore
  */
