@@ -1,7 +1,7 @@
 package com.datastore.main.utils;
 
 /**
- * @author divyam
+ * @author kartikPANT
  *
  *
  *         Contains the constants
