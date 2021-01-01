@@ -9,7 +9,7 @@ import com.datastore.main.utils.CommonUtils;
 import com.datastore.main.utils.Constants;
 
 /**
- * @author divyam
+ * @author  kartikPANT
  *
  *         This class handles with new DataStore instantiation and provides
  *         various operations like create elemenet, read&delete element.
